@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 I'm a software engineer with one years experience. Trained in full-stack, currently working in a backend role using Java and Spring at UK Retailer Marks and Spencers. You'll find frontend and backend projects here, projects I made independently and projecst I made with a small team. Feel free to explore the repos at your leisure. 
 
 🎯 My goal right now is... finding a new job at a forward thinking firm and growing my career.
+<br/>
 🔭 I’m currently working on... a portfolio website.
+<br/>
 🌱 I’m currently learning... kubernates.
+<br/>
 
 ### 🧰 Languages and Tools
 
