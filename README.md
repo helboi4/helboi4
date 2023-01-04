@@ -40,8 +40,9 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Bash" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
-</br>
+<img align="left" alt="Azure" width="80px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" />
+<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<br/>
 
 ### 📊 Stats
 
