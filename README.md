@@ -10,7 +10,6 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
   <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=link&logoColor=white" />
  </a>
 </p>
-
 #
 
 🎯 My goal right now is... finding a new job at a forward thinking firm and growing my career.
