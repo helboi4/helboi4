@@ -40,6 +40,7 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 <img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" />
 <br/>
+
 #
 
 <details>
