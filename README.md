@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-# 👨‍💻Helena Hope-Carter
+# 🏋🏽Helena Hope-Carter
 
-** Full-stack software engineer **
+**` Full-stack software engineer `**
+
 
 I'm a software engineer with one years experience. Trained in full-stack, currently working in a backend role using Java and Spring at UK Retailer Marks and Spencers. You'll find frontend and backend projects here, projects I made independently and projecst I made with a small team. Feel free to explore the repos at your leisure. 
+
+- 🔭 I’m currently working on... a portfolio website.
+- 🌱 I’m currently learning... kubernates.
