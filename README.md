@@ -48,4 +48,4 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 ### 📊 Stats
 
 ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=helboi4&show_icons=true&theme=gruvbox)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=helboi4&theme=gruvbox&border_radius=4.5) -->
