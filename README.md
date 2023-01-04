@@ -45,10 +45,6 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 <img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />
 <br/>
 
-### 📊 Stats
-
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=helboi4&show_icons=true&theme=gruvbox)
-
 #
 
 <details>
