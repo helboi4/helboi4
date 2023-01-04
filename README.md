@@ -11,6 +11,8 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
  </a>
 </p>
 
+#
+
 🎯 My goal right now is... finding a new job at a forward thinking firm and growing my career.
 <br/>
 🔭 I’m currently working on... a portfolio website.
