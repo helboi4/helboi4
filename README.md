@@ -7,7 +7,7 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 
 <p align="left">
  <a href="https://www.linkedin.com/in/helenahc/">
-  <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" />
+  <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=paintbrush&logoColor=white" />
  </a>
 </p>
 
