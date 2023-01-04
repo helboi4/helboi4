@@ -4,10 +4,10 @@
 
 
 I'm a software engineer with one years experience. Trained in full-stack, currently working in a backend role using Java and Spring at UK Retailer Marks and Spencers. You'll find frontend and backend projects here, projects I made independently and projects I made with a small team. Feel free to explore the repos at your leisure. 
-https://img.shields.io/badge/-linkedin-blue
+
 <p align="left">
  <a href="https://www.linkedin.com/in/helenahc/">
-  <img alt="linkedin" src="https://custom-icon-badges.demolab.com/-linkedin-blue?logo=paintbrush&logoColor=white" />
+  <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" />
  </a>
 </p>
 
