@@ -1,24 +1,15 @@
-<!--
-**helboi4/helboi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
 # 🏋Helena Hope-Carter
 
 **` Full-stack software engineer`**
 
 
-I'm a software engineer with one years experience. Trained in full-stack, currently working in a backend role using Java and Spring at UK Retailer Marks and Spencers. You'll find frontend and backend projects here, projects I made independently and projecst I made with a small team. Feel free to explore the repos at your leisure. 
+I'm a software engineer with one years experience. Trained in full-stack, currently working in a backend role using Java and Spring at UK Retailer Marks and Spencers. You'll find frontend and backend projects here, projects I made independently and projects I made with a small team. Feel free to explore the repos at your leisure. 
+https://img.shields.io/badge/-linkedin-blue
+<p align="left">
+ <a href="https://www.linkedin.com/in/helenahc/">
+  <img alt="linkedin" src="https://custom-icon-badges.demolab.com/-linkedin-blue.svg?logo=paintbrush&logoColor=white" />
+ </a>
+</p>
 
 🎯 My goal right now is... finding a new job at a forward thinking firm and growing my career.
 <br/>
