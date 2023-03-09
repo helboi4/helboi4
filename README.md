@@ -17,7 +17,7 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 <br/>
 🔭 I’m currently working on... a portfolio website.
 <br/>
-🌱 I’m currently learning... kubernates.
+🌱 I’m currently learning... terraform.
 <br/>
 
 #
