@@ -3,7 +3,7 @@
 **` Full-stack software engineer`**
 
 
-I'm a software engineer with one years experience. Trained in full-stack, currently working in a backend role using Java and Spring at UK Retailer Marks and Spencers. You'll find frontend and backend projects here, projects I made independently and projects I made with a small team. Feel free to explore the repos at your leisure. 
+I'm a software engineer with one years experience. Trained in full-stack, currently working in a backend role using Java and Spring at Universal Music UK. You'll find frontend and backend projects here, projects I made independently and projects I made with a small team. Feel free to explore the repos at your leisure. 
 
 <p align="left">
  <a href="https://www.linkedin.com/in/helenahc/">
@@ -13,7 +13,7 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 
 #
 
-🎯 My goal right now is... finding a new job at a forward thinking firm and growing my career.
+🎯 My goal right now is... becoming the best at my brand new job that I can be.
 <br/>
 🔭 I’m currently working on... a portfolio website.
 <br/>
