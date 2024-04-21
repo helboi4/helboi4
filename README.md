@@ -15,9 +15,9 @@ I'm a software engineer with one years experience. Trained in full-stack, curren
 
 🎯 My goal right now is... becoming the best at my brand new job that I can be.
 <br/>
-🔭 I’m currently working on... a portfolio website.
+🔭 I’m currently working on... a blog.
 <br/>
-🌱 I’m currently learning... terraform.
+🌱 I’m currently learning... css scroll animations.
 <br/>
 
 #
