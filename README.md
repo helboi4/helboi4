@@ -3,7 +3,7 @@
 **` Full-stack software engineer`**
 
 
-I'm a software engineer with one years experience. Trained in full-stack, currently working in a fullstack role using Java, Spring, Angular and Ionic at Universal Music UK. You'll find frontend and backend projects here, projects I made independently and projects I made with a small team. Feel free to explore the repos at your leisure. 
+I'm a software engineer with one years experience. Trained in full-stack, currently working in a fullstack role using Java, Spring, Angular and Ionic at Universal Music Global Tech. You'll find frontend and backend projects here, projects I made independently and projects I made with a small team. Feel free to explore the repos at your leisure. 
 
 <p align="left">
  <a href="https://www.linkedin.com/in/helenahc/">
