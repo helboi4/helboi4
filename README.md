@@ -15,7 +15,7 @@ I'm a software engineer with three years experience. Trained in full-stack, curr
 
 🎯 My goal right now is... finding new oppurtunities that will move forward my career and professional growth.
 <br/>
-🔭 I’m currently working on... my portfolio website.
+🔭 I’m currently working on... rebuilding my portfolio webiste, contributing to Grow Your Own.
 <br/>
 
 #
