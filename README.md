@@ -11,8 +11,6 @@ Building language learning, productivity and music tools in Java, Python and fro
 </p>
 
 #
-
-🎯 My goal right now is... finding new oppurtunities that will move forward my career and professional growth.
 <br/>
-🔭 I’m currently working on... rebuilding my portfolio webiste, contributing to Grow Your Own.
+🔭 I’m currently working on... a Japanese language learning app and love letter to the open source Japanese langauge learning developer community that raised me.
 <br/>
