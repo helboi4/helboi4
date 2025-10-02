@@ -11,6 +11,4 @@ Building language learning, productivity and music tools in Java, Python and fro
 </p>
 
 #
-<br/>
 🔭 I’m currently working on... a Japanese language learning app and love letter to the open source Japanese langauge learning developer community that raised me.
-<br/>
