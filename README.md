@@ -3,6 +3,7 @@
 **` Full-stack software engineer`**
 
 Building language learning, productivity and music tools in Java, Python and frontend TS frameworks.
+RTFM
 
 <p align="left">
  <a href="https://www.linkedin.com/in/helenahc/">
